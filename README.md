@@ -3,7 +3,7 @@
 Bienvenue sur le dépôt du site vitrine pour la **Pizzeria San Remo 1**, un projet fictif (ou réel) conçu pour mettre en avant mes compétences en développement web front-end.
 
 ## 🔗 Voir le site en ligne
-Vous pouvez consulter le site directement dans votre navigateur, sans rien télécharger, via le lien GitHub Pages suivant :
+Vous pouvez consulter le site directement dans votre navigateur, sans rien télécharger, via le lien GitHub Pages suivant:
 
 👉 **[Accéder au site San Remo 1](https://hasanna995.github.io/site-san-remo-1/)**
 
