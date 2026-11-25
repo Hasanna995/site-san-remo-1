@@ -284,6 +284,35 @@ footer{background:#100D0A;padding:2rem 3rem;display:flex;align-items:center;just
   .menu-item-prix { font-size: 14px; }
 }
 
+
+/* CORRECTION MOBILE : le site doit occuper toute la largeur du telephone */
+@media screen and (max-width: 768px) {
+  html, body {
+    width: 100% !important;
+    min-width: 100% !important;
+    max-width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    overflow-x: hidden !important;
+  }
+  body > nav,
+  body > .hero,
+  body > .atouts,
+  body > section,
+  body > .pizza-section,
+  body > .four-split,
+  body > .plat-split,
+  body > footer {
+    width: 100% !important;
+    max-width: 100% !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+  nav { width: 100% !important; }
+  .hero, .atouts { width: 100% !important; }
+  .hero-left, .hero-right { min-width: 0; }
+  img { max-width: 100%; }
+}
 </style>
 </head>
 <body>
